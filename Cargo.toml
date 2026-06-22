@@ -1,6 +1,6 @@
 [package]
 name = "textstat"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 rust-version = "1.81"
 description = "Readability metrics for English text: Flesch Reading Ease, Flesch-Kincaid, Gunning Fog, SMOG, ARI, Coleman-Liau, plus word/sentence/syllable counts. Zero-dependency, no_std."
